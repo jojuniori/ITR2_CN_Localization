@@ -1,0 +1,26 @@
+# 提取的游戏数据（35GB）
+extract/
+
+# 历史归档/审计冷备份
+notes/archive/
+translation/archive/
+
+# 构建产物
+build/
+
+# 第三方工具
+tools/
+
+# pak 文件
+*.pak
+
+# 发布压缩包（走 Releases 分发）
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+AGENTS.md
+GEMINI.md
