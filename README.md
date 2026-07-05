@@ -1,10 +1,25 @@
-# ITR2 简体中文本地化工作区
+<p align="center">
+  <img src="img/steam_guide_logo_390x390.png" alt="ITR2 CN Localization" width="195" />
+  <br><br>
+  <b>Into the Radius 2 · 简体中文本地化</b>
+  <br>
+  <i>个人/社区非营利汉化项目</i>
+</p>
 
-![11](https://github.com/jojuniori/ITR2_CN_Localization/raw/main/screenshot/11.png)
+<p align="center">
+  <a href="README.md">中文</a> | <a href="README_EN.md">English</a>
+</p>
 
-本项目工作流含Agent参与。
+<p align="center">
+  <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green" alt="License" />
+  <img src="https://img.shields.io/badge/localization-简体中文-44cc11" alt="Language" />
+  <img src="https://img.shields.io/badge/platform-Windows-blue?logo=windows&logoColor=white" alt="Platform" />
+  <img src="https://img.shields.io/badge/Nexus%20Mods-available-orange?logo=nexusmods" alt="Nexus Mods" />
+</p>
 
-如需自定义用Agent执行相关内容，我已将相关翻译约束写好，可将之加入到您惯用的Agent的Rule限制当中如：
+本项目工作流含 Agent 参与。
+
+如需自定义用 Agent 执行相关内容，我已将相关翻译约束写好，可将之加入到您惯用的 Agent 的 Rule 限制当中：
 
 ```markdown
 ## 翻译规范
@@ -79,27 +94,33 @@ IntoTheRadius2\Content\Paks\
 
 Vortex 安装：上传/导入 dist zip 即可。zip 根目录包含 pak 文件和 `LICENSES/MapleMono-OFL.txt` 字体许可证。
 
-## 已知问题 (Known Issues)
+## 已知问题
 
 1. 游戏当前版本将 IZh-27 6发弹带的左右标记放反了，本汉化包已在翻译文本中对调以匹配游戏实际显示。若后续官方修复此问题，弹带名称可能出现左右错位，届时将发布更新。
 2. 主流程中还剩2个地方我没法覆盖翻译后的文本，暂时搞不定，不过不影响游玩：
-   ![untransed](https://github.com/jojuniori/ITR2_CN_Localization/raw/main/screenshot/untransed.png)
+   ![untransed](https://github.com/MitsukiJoe/ITR2_CN_Localization/raw/main/screenshot/untransed.png)
 
-## 免费与版权声明 (Free & License Disclaimer)
+## 免费与版权声明
 
-1. **完全免费 (100% Free)**：本 Mod 为个人/社区自发的非营利汉化作品，**完全免费发布**。
-2. **严禁商用 (Non-Commercial Only)**：本 Mod 采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议授权。**严禁任何人或组织将本 Mod 及其衍生修改版用于任何形式的商业用途（包括但不限于电商倒卖、打包收费、付费下载、挂靠打赏/广告、作为收费会员专属福利等）**。
-3. **谨防受骗 (Consumer Warning)**：如果您在任何第三方平台（如淘宝、闲鱼、拼多多等）上付费购买了本 Mod，说明您已被骗！请立即向平台申请退款并举报盗卖商家。本团队将对一切未经授权的商业盗卖行为发起平台侵权下架申诉（IPP/DMCA）。
+1. **完全免费**：本 Mod 为个人/社区自发的非营利汉化作品，**完全免费发布**。
+2. **严禁商用**：本 Mod 采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可协议授权。**严禁任何人或组织将本 Mod 及其衍生修改版用于任何形式的商业用途（包括但不限于电商倒卖、打包收费、付费下载、挂靠打赏/广告、作为收费会员专属福利等）**。
+3. **谨防受骗**：如果您在任何第三方平台（如淘宝、闲鱼、拼多多等）上付费购买了本 Mod，说明您已被骗！请立即向平台申请退款并举报盗卖商家。本团队将对一切未经授权的商业盗卖行为发起平台侵权下架申诉（IPP/DMCA）。
 
-## 截图 (Screenshots)
+## 鸣谢
 
-![12](https://github.com/jojuniori/ITR2_CN_Localization/raw/main/screenshot/12.png)
-![13](https://github.com/jojuniori/ITR2_CN_Localization/raw/main/screenshot/13.png)
-![14](https://github.com/jojuniori/ITR2_CN_Localization/raw/main/screenshot/14.png)
-![15](https://github.com/jojuniori/ITR2_CN_Localization/raw/main/screenshot/15.png)
-![16](https://github.com/jojuniori/ITR2_CN_Localization/raw/main/screenshot/16.png)
-![17](https://github.com/jojuniori/ITR2_CN_Localization/raw/main/screenshot/17.png)
-![22](https://github.com/jojuniori/ITR2_CN_Localization/raw/main/screenshot/22.png)
-![23](https://github.com/jojuniori/ITR2_CN_Localization/raw/main/screenshot/23.png)
-![24](https://github.com/jojuniori/ITR2_CN_Localization/raw/main/screenshot/24.png)
-![25](https://github.com/jojuniori/ITR2_CN_Localization/raw/main/screenshot/25.png)
+- Maple Mono NF CN 字体 — [subframe7536](https://github.com/subframe7536/maple-font)，SIL Open Font License 1.1
+- Into the Radius 2 — [CM Games](https://cm.games/)
+
+## 截图
+
+![11](https://github.com/MitsukiJoe/ITR2_CN_Localization/raw/main/screenshot/11.png)
+![12](https://github.com/MitsukiJoe/ITR2_CN_Localization/raw/main/screenshot/12.png)
+![13](https://github.com/MitsukiJoe/ITR2_CN_Localization/raw/main/screenshot/13.png)
+![14](https://github.com/MitsukiJoe/ITR2_CN_Localization/raw/main/screenshot/14.png)
+![15](https://github.com/MitsukiJoe/ITR2_CN_Localization/raw/main/screenshot/15.png)
+![16](https://github.com/MitsukiJoe/ITR2_CN_Localization/raw/main/screenshot/16.png)
+![17](https://github.com/MitsukiJoe/ITR2_CN_Localization/raw/main/screenshot/17.png)
+![22](https://github.com/MitsukiJoe/ITR2_CN_Localization/raw/main/screenshot/22.png)
+![23](https://github.com/MitsukiJoe/ITR2_CN_Localization/raw/main/screenshot/23.png)
+![24](https://github.com/MitsukiJoe/ITR2_CN_Localization/raw/main/screenshot/24.png)
+![25](https://github.com/MitsukiJoe/ITR2_CN_Localization/raw/main/screenshot/25.png)
